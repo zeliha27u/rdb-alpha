@@ -50,3 +50,4 @@ ls --color=auto
 more package.jso
 cd package.json
 more package.json
+clear
