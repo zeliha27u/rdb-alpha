@@ -47,3 +47,6 @@ pwd
 ls --color=auto
 cd ..
 ls --color=auto
+more package.jso
+cd package.json
+more package.json
